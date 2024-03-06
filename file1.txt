@@ -1,3 +1,4 @@
 foo
 hello
 this is a change from developer
+new command added
