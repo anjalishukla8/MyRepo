@@ -2,3 +2,4 @@ foo
 hello
 this is a change from developer
 new command added
+adding some new lines
